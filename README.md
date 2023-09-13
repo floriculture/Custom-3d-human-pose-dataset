@@ -1,4 +1,4 @@
-# Custom-your-own-3d-human-pose-dataset
+# Custom-3d-human-pose-dataset
 Custom your own 3d human pose dataset with motion capture system and cameras
 
 ## Human3.6m format datset in [videopose3d](https://github.com/facebookresearch/VideoPose3D) or other similar 3d pose model
