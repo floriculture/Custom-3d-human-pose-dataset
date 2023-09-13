@@ -25,5 +25,10 @@ Camera intrinsic parameters refer to the internal parameters of the camera, incl
 
 ![Zhang Zheng you](https://github.com/floriculture/Custom-your-own-3d-human-pose-dataset/blob/main/pic/pic9%20%E7%9B%B8%E6%9C%BA%E5%86%85%E5%8F%82%E6%A0%87%E5%AE%9A%E5%AE%9E%E6%99%AF.PNG)
 
-The camera intrinsic parameters also include radial distortion and tangential distortion. In Human3.6M, we need to calibrate three tangential distortion coefficients and two radial distortion coefficients.
+The camera intrinsic parameters also include radial distortion and tangential distortion. In Human3.6M, we need to calibrate three tangential distortion coefficients and two radial distortion coefficients. We can project gt 3d human pose data onto the imaging plane of a camera using camera intrinsic and extrinsic parameters to obtain gt 2d human pose data.
+
+### 4. The camera extrinsic and intrinsic information in videopose3d model about h36m dataset
+
+
+
 
